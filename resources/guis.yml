@@ -232,3 +232,11 @@ guis:
   price: 14.99€
   license: Proprietary
   order: 26
+- name: MGit
+  url: https://github.com/maks/MGit
+  image_tag: guis/mgit@2x.png
+  platforms:
+    - Android
+  price: Free
+  license: GPLv3
+  order: 27
